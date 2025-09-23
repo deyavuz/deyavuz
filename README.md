@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Defne:
-- 🌏 I'm a recent LSE PBS graduate
-- 🌱 currently learning how to code in Python, R, and Java
-- 🪐 I'm interested in exploring how I can use computer science to tackle real-life problems!
+- 🌏 I'm an LSE graduate, now doing an MSc in Computing at Imperial College London
+- 🌱 currently coding projects in Python, and learning C++ and Java
+- 🪐 interested in exploring how I can use computer science to tackle real-life problems!
 
 <!---
 deyavuz/deyavuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
